@@ -10,13 +10,13 @@
 
 ###### class0921
 
-(`)small
+`small`
 
-(```)big
+```big```
 
 >A
 >>a
 
-*R
-*G
-*B
+* R
+* G
+* B
